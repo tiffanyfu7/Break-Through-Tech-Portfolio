@@ -1,4 +1,5 @@
 # Coding Assignments for Break Through Tech AI/ML
-Lab 5 Assignemnt - Optimizing Model Selection for Logistic Regression
-Lab 6 Assignment - Comparing Regression Models, Ensemble and Individual
-Lab 7 Assignment - Implementing CNN For Handwritten Character Recognition
+## Contents
+<a href="https://github.com/tiffanyfu7/Break-Through-Tech-Portfolio/tree/main/Lab5Assignment">Lab 5 Assignment</a>: Optimizing Model Selection for Logistic Regression, </br>
+<a href="https://github.com/tiffanyfu7/Break-Through-Tech-Portfolio/tree/main/Lab6Assignment">Lab 6 Assignment</a>: Comparing Regression Models, Ensemble & Individual, </br>
+<a href="https://github.com/tiffanyfu7/Break-Through-Tech-Portfolio/tree/main/Lab7Assignment">Lab 7 Assignment </a>: Implementing CNN for Handwritten Character Recognition </br>
